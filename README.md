@@ -1,12 +1,12 @@
-# 📊 Portfólio: O Mistério da Abstenção no ENEM (2023)
+﻿# 📊 Portfólio: O Mistério da Abstenção no ENEM (2023)
 
 Dashboard analítico interativo que investiga os fatores socioeconômicos por trás da evasão de candidatos no Exame Nacional do Ensino Médio.
 
-> Este projeto é a primeira parte de uma análise de dados em dois atos. Enquanto aqui nós respondemos ***o quê*** e ***onde***, o projeto irmão de [Machine Learning](https://github.com/jeancribeiro1982-creator/portfolio-enem-ml) vai fundo no ***por quê*** e no ***quanto custa*** financeiramente.
+> Este projeto é a primeira parte de uma análise de dados em dois atos. Enquanto aqui nós respondemos ***o quê*** e ***onde***, o projeto irmão de [Machine Learning](https://github.com/jeanribeiro-dev/portfolio-enem-ml) vai fundo no ***por quê*** e no ***quanto custa*** financeiramente.
 
 ## 🔗 Acesse o Dashboard Online
 
-👉 **[Clique aqui para acessar o painel interativo](https://jeancribeiro1982-creator.github.io/portfolio-enem-abstencao/dashboard/)**
+👉 **[Clique aqui para acessar o painel interativo](https://jeanribeiro-dev.github.io/portfolio-enem-abstencao/dashboard/)**
 
 ## 💡 Motivação
 
